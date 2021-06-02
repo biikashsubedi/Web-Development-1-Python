@@ -47,7 +47,7 @@ toml==0.10.1
 tox==3.15.1
 translate==3.5.0
 twilio==6.41.0
-urllib3==1.25.9
+urllib3==1.26.5
 virtualenv==20.0.21
 Werkzeug==1.0.1
 win-unicode-console==0.5
